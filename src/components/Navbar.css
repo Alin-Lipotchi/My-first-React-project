@@ -1,0 +1,15 @@
+.navbar {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 1rem;
+}
+
+.btn {
+    background: #333;
+    color: #fff;
+    border: none;
+    padding: .5rem;
+    border-radius: 10px;
+    margin: 0 .5rem;
+}
